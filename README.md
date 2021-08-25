@@ -1,1 +1,3 @@
 # Flight-Planning-Program
+The flight planning program is a GUI-based tool programmed in Python that reads through a provided spreadsheet of flight data and informs the user of the best configurations of various flight details, such as type of plane or distance of flight, in regard to the odds of a flight having available seats.
+Upon selecting an input spreadsheet, the program reads through the spreadsheet to identify each configuration of each flight detail. After this process completes, the user is able ot have the program identify the top 10 results of each flight detail or find the best 10 configurations of flight details with up to 3 selected restrictions.
